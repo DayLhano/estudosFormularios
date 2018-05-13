@@ -1,0 +1,10 @@
+.form-custom {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    margin: auto;
+  }
+
+.form-custom label {
+    float: left;
+}
